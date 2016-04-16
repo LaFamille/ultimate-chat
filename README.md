@@ -9,6 +9,7 @@
 * formatage du texte, pourquoi pas
 * son/video? .. eventuellement mais bleh 
 * discussion 1-à-1 ou juste channel? channel avec mdp éventuel ? ça pourrait même être automatisé pour faire du 1à1 au pire
+* Rendre les liens cliquables  + Racourcissement des liens (pour ceux de plus de X carateres / avec texte au choix) ?
  
 #Le protocole
 #L'implémentation
